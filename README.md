@@ -1,17 +1,15 @@
 # 👋 Hei, jeg er Hassan Yusuf
-Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent med forkjærlighet for enkle og brukervennlige løsninger. ⚽️ Fotballbakgrunnen min har lært meg verdien av samarbeid, disiplin og å prestere når det gjelder.
+Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent som liker å bygge enkle og brukervennlige løsninger. ⚽️ Fotballbakgrunnen min har lært meg å sette pris på samarbeid, disiplin og det å levere når det gjelder.
 
 ---
 
 ## ✨ Om meg
 - **Dataingeniørstudent (2022–2025)**  
-  - Fokus på **fullstack-utvikling**, **systemarkitektur** og moderne utviklingsmetoder
-
+  - Har fokus på fullstack-utvikling og moderne verktøy
 - **Teamorientert**  
-  - Setter pris på godt samarbeid og mener de beste løsningene skapes i fellesskap
-
-- **Kontinuerlig læring**  
-  - Liker å utforske nye teknologier, verktøy og metoder innen utvikling og drif.
+  - Trives med å jobbe sammen med andre for å nå felles mål
+- **Alltid i utvikling**  
+  - Jeg følger med på nye teknologier og metoder for å bli en bedre utvikler
 
 ---
 
@@ -33,14 +31,14 @@ Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent med fork
 ## 💡 Utvalgte prosjekter
 
 ### ISA DeepData Platform
-- Fullstack-løsning for **International Seabed Authority (ISA)** som håndterer data om havbunnen  
-- **Teknologi**: ASP.NET Core (backend) + React/Next.js (frontend), med kartvisualisering og dataanalyse  
-- Støtter **flere språk** og har **responsivt design**
+- Fullstack-løsning for **International Seabed Authority (ISA)**, håndterer data om havbunnen  
+- **Teknologi**: ASP.NET Core (backend) og React/Next.js (frontend)  
+- Har kartvisning, dataanalyse og støtte for flere språk
 
 ### Nest & NestAPI
-- En **sosial medieplattform** utviklet med ASP.NET MVC og Entity Framework  
-- Separat **REST-API** bygget i ASP.NET Core  
-- Støtter brukergenerert innhold, innlogging og et responsivt design  
+- Sosialt nettverk utviklet med **ASP.NET MVC** og **Entity Framework**  
+- Separat **REST-API** laget i **ASP.NET Core**  
+- Støtter brukergenerert innhold og responsivt design  
 - [GitHub-repo](https://github.com/HassanYusuf1/Nest.git)
 
 ---
