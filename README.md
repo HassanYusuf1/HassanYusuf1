@@ -43,30 +43,19 @@ Jeg er en nysgjerrig og løsningsorientert dataingeniørstudent som brenner for 
 - Fullstack-system for International Seabed Authority (ISA), håndterer dyphavsutforskningsdata  
 - **Teknologi**: ASP.NET Core (backend), React/Next.js (frontend), kartvisualisering og dataanalyse  
 - Fleksibel og skalerbar arkitektur, med flerspråklig støtte og responsivt design  
-- [Repo-lenke (hvis offentlig)](#)
+
 
 ### Nest & NestAPI
 - Fullstack sosial medieplattform utviklet med ASP.NET MVC og Entity Framework  
 - REST API for Nest-plattformen bygget i ASP.NET Core  
 - Implementerer brukergenerert innhold, autentisering og responsivt design  
-- [Repo-lenke (hvis offentlig)](#)
-
-### ObligTDape1400
-- Java-basert prosjekt for datastrukturer og algoritmer  
-- Utforsker grunnleggende og avanserte algoritmer i praksis  
-- [Repo-lenke (hvis offentlig)](#)
-
----
-
-## 🏆 Annen erfaring
-- Lang erfaring som fotballspiller (bl.a. Skeid og Grorud) – har lært verdien av samspill og utholdenhet  
-- Miljøarbeid: Tilpasser aktiviteter og veiledning for barn og unge
+- [https://github.com/HassanYusuf1/Nest.git](#)
 
 ---
 
 ## 📫 Kontakt meg
 - ✉️ [hassansahal123@outlook.com](mailto:hassansahal123@outlook.com)
-- 💼 [LinkedIn](https://linkedin.com/in/hassan-yusuf)
+- 💼 [LinkedIn](www.linkedin.com/in/hassan-yusuf-376043327)
 
 ---
 
