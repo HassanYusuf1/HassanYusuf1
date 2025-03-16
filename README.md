@@ -27,8 +27,6 @@ Jeg er en nysgjerrig og løsningsorientert dataingeniørstudent som brenner for 
 - **Databaser**: SQL, NoSQL, ER-modellering  
 - **Verktøy**: Git, GitHub, UML, Scrum/Kanban, CI/CD  
 - **Andre rammeverk/metoder**: Entity Framework, Agile metodikk
-
----
 ---
 
 ## 💡 Utvalgte prosjekter
