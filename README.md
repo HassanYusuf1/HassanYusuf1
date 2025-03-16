@@ -29,13 +29,6 @@ Jeg er en nysgjerrig og løsningsorientert dataingeniørstudent som brenner for 
 - **Andre rammeverk/metoder**: Entity Framework, Agile metodikk
 
 ---
-
-## 🌱 Jeg lærer stadig mer om
-- DevOps-praksis og kontinuerlig integrasjon/utrulling (CI/CD)
-- Mikrotjenester og skalerbare Cloud-løsninger
-- Avansert datavisualisering og kartløsninger
-- Systemarkitektur for høy ytelse og robusthet
-
 ---
 
 ## 💡 Utvalgte prosjekter
