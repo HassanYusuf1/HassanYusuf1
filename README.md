@@ -1,21 +1,21 @@
-# Hei, jeg er Hassan Yusuf
-Jeg er en nysgjerrig og løsningsorientert dataingeniørstudent. Jeg liker å bygge løsninger som er enkle å bruke og som fungerer godt. Fotballbakgrunnen min har lært meg viktigheten av lagarbeid, disiplin og å prestere under press.
+# 👋 Hei, jeg er Hassan Yusuf
+Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent med forkjærlighet for enkle og brukervennlige løsninger. ⚽️ Fotballbakgrunnen min har lært meg verdien av samarbeid, disiplin og å prestere når det gjelder.
 
 ---
 
-## Om meg
+## ✨ Om meg
 - **Dataingeniørstudent (2022–2025)**  
-  Jeg utvikler både praktisk og teoretisk kunnskap innen systemutvikling og webteknologi.
+  - Fokus på **fullstack-utvikling**, **systemarkitektur** og moderne utviklingsmetoder
 
-- **Teamorientert utvikler**  
-  Jeg trives med samarbeid og fokuserer på enkle, robuste løsninger.
+- **Teamorientert**  
+  - Setter pris på godt samarbeid og mener de beste løsningene skapes i fellesskap
 
 - **Kontinuerlig læring**  
-  Jeg holder meg oppdatert på nye teknologier og metoder innen utvikling og drift (DevOps).
+  - Liker å utforske nye teknologier, verktøy og metoder innen utvikling og drift (DevOps)
 
 ---
 
-## Nøkkelkompetanse
+## 🚀 Nøkkelkompetanse
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
@@ -26,29 +26,29 @@ Jeg er en nysgjerrig og løsningsorientert dataingeniørstudent. Jeg liker å by
 - **Webutvikling**: HTML, CSS, React, Next.js, Spring Boot, ASP.NET Core  
 - **Databaser**: SQL, NoSQL  
 - **Verktøy**: Git, GitHub, UML, Scrum/Kanban  
-- **Kjenner til**: CI/CD, Entity Framework, agile metoder
+- **Kjenner til**: CI/CD, Entity Framework, Agile metodikk
 
 ---
 
-## Utvalgte prosjekter
+## 💡 Utvalgte prosjekter
 
 ### ISA DeepData Platform
-- Fullstack-løsning for International Seabed Authority (ISA) som håndterer data om havbunnen  
-- **Teknologi**: ASP.NET Core, React/Next.js, kartfunksjoner og dataanalyse  
-- Støtter flere språk og har responsivt design
+- Fullstack-løsning for **International Seabed Authority (ISA)** som håndterer data om havbunnen  
+- **Teknologi**: ASP.NET Core (backend) + React/Next.js (frontend), med kartvisualisering og dataanalyse  
+- Støtter **flere språk** og har **responsivt design**
 
 ### Nest & NestAPI
-- Sosialt nettverk bygd med ASP.NET MVC og Entity Framework  
-- Separat REST-API utviklet i ASP.NET Core  
-- Støtter brukergenerert innhold og innlogging  
+- En **sosial medieplattform** utviklet med ASP.NET MVC og Entity Framework  
+- Separat **REST-API** bygget i ASP.NET Core  
+- Støtter brukergenerert innhold, innlogging og et responsivt design  
 - [GitHub-repo](https://github.com/HassanYusuf1/Nest.git)
 
 ---
 
-## Kontakt meg
+## 📫 Kontakt meg
 - ✉️ [hassansahal123@outlook.com](mailto:hassansahal123@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hassan-yusuf-376043327)
 
 ---
 
-*"Kode fungerer på mystiske måter, men aldri tilfeldig."*
+> *"Kode fungerer på mystiske måter, men aldri tilfeldig."*
