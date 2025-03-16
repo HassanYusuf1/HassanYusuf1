@@ -1,39 +1,46 @@
-Hei, jeg er Hassan Yusuf 👋
-Om meg
-Dataingeniør under utdanning med bred teknisk kompetanse. Jeg er nysgjerrig og interessert i teknologi, og liker å finne enkle og gode løsninger på utfordringer. Jeg har erfaring med teamarbeid og trives med å samarbeide for å løse komplekse problemer.
+I tillegg til denne README-filen for prosjektet ditt, ville jeg også anbefalt å oppdatere din personlige GitHub-profil README (husk at dette er en spesiell repository med samme navn som brukernavnet ditt). Her er et forslag:
 
-🎓 Studerer Dataingeniør (fullfører 2025)
-💻 Interessert i fullstack-utvikling og systemarkitektur
-🌱 Lærer stadig mer om moderne utviklingsmetoder og verktøy
-🔍 Opptatt av kodestruktur og skalerbare løsninger
+```markdown
+# 👋 Hei, jeg er Hassan Yusuf
 
-Tekniske ferdigheter
+## 👨‍💻 Dataingeniør under utdanning med bred teknisk kompetanse
 
-Programmering: Java, .NET C#
-Webutvikling: HTML, CSS, Spring Boot, React
-Verktøy: Git, GitHub, SQL, UML, Agile metoder (Scrum, Kanban)
-Databaser: SQL, NoSQL, ER-modellering
-Frontend: React, Bootstrap, JavaScript/TypeScript
+Jeg er en nysgjerrig og løsningsorientert dataingeniørstudent som trives med å finne enkle og gode løsninger på utfordrende problemer. Med solid erfaring i teamarbeid og systemutvikling, fokuserer jeg på å bygge robuste og brukervennlige applikasjoner.
 
-Prosjekter
-Her er noen av mine prosjekter:
+### 🎓 Utdanning
+- **Bachelor i Dataingeniør** (2022-2025)
+  - Fokus på fullstack-utvikling, systemarkitektur og moderne utviklingsmetoder
+  - Solid teoretisk og praktisk kunnskap innen programmering, databaser og systemutvikling
 
-Nest: Fullstack sosial medieplattform utviklet med ASP.NET MVC og Entity Framework. Lar brukere dele bilder og notater, med kommentarfunksjonalitet og brukerautentisering.
-Nest API: REST API for Nest-plattformen, bygget med ASP.NET Core, som tillater enkel integrasjon med frontendapplikasjoner.
-OblIgTDape1400: Java-basert prosjekt for datastrukturer og algoritmer.
+### 💻 Tekniske ferdigheter
+- **Programmering**: Java, C#, JavaScript/TypeScript
+- **Webutvikling**: HTML, CSS, React, Spring Boot
+- **Verktøy**: Git, GitHub, SQL, UML, Agile metodikk
+- **Databaser**: SQL, NoSQL, ER-modellering
+- **Frontend**: React, Bootstrap, responsive design
 
+### 🚀 Nåværende prosjekt
+Jeg jobber for tiden med **ISA DeepData Platform** - et fullstack system for International Seabed Authority som håndterer dyphavsutforskningsdata. Prosjektet kombinerer:
+- ASP.NET Core backend med Entity Framework
+- React/Next.js frontend med kartvisualisering
+- Avansert dataanalyse og geografisk databehandling
+- Flerspråklig støtte og responsivt design
 
-Utdanning
+### 🔭 Andre prosjekter
+- **Nest**: Fullstack sosial medieplattform bygget med ASP.NET MVC og Entity Framework
+- **NestAPI**: REST API for Nest-plattformen med ASP.NET Core
+- **ObligTDape1400**: Java-basert prosjekt for datastrukturer og algoritmer
 
-Bachelorgrad i Dataingeniør (2022-2025)
+### 🌱 Jeg lærer stadig mer om
+- Moderne utviklingsverktøy og DevOps praksis
+- Cloud-baserte løsninger og mikrotjenester
+- Avansert datavisualisering og dataanalyse
+- Skalerbare systemarkitekturer
 
-Studier i programmering, databaser, systemutvikling og webutvikling
-Jobbet med Java, .NET C#, React og SQL
+### 📫 Kontakt meg
+- 📧 [hassansahal123@outlook.com](mailto:hassansahal123@outlook.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/hassan-yusuf)
 
+---
 
-Forkurs i ingeniørfag, NKI Nettstudier (2022)
-
-Kontakt meg
-
-📧 Email: hassansahal123@outlook.com
-🔗 LinkedIn: Hassan Yusuf
+*"Kode fungerer på mystiske måter, men aldri tilfeldig."*
