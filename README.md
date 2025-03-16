@@ -11,7 +11,7 @@ Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent med fork
   - Setter pris på godt samarbeid og mener de beste løsningene skapes i fellesskap
 
 - **Kontinuerlig læring**  
-  - Liker å utforske nye teknologier, verktøy og metoder innen utvikling og drift (DevOps)
+  - Liker å utforske nye teknologier, verktøy og metoder innen utvikling og drif.
 
 ---
 
