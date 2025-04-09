@@ -34,6 +34,7 @@ Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent som like
 - Fullstack-løsning for **International Seabed Authority (ISA)**, håndterer data om havbunnen  
 - **Teknologi**: ASP.NET Core (backend) og React/Next.js (frontend)  
 - Har kartvisning, dataanalyse og støtte for flere språk
+- [GitHub-repo](https://github.com/HassanYusuf1/Bachelor.git)
 
 ### Nest & NestAPI
 - Sosialt nettverk utviklet med **ASP.NET MVC** og **Entity Framework**  
