@@ -4,7 +4,7 @@ Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent som like
 ---
 
 ## ✨ Om meg
-- **Dataingeniørstudent (2022–2025)**  
+- **Dataingeniør(2022–2025)**  
   - Har fokus på fullstack-utvikling og moderne verktøy
 - **Teamorientert**  
   - Trives med å jobbe sammen med andre for å nå felles mål
