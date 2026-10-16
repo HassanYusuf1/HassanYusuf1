@@ -6,13 +6,13 @@
 
 # Hassan Yusuf
 
-**Systemutvikler** · fullstack · .NET · React/TypeScript · effektiv ML på edge
+**Systemutvikler** · fullstack · .NET · Blazor · Optimizely · effektiv ML på edge
 
-Jeg er systemutvikler med bakgrunn som dataingeniør. Til daglig bygger jeg fullstack-løsninger med C#/.NET og React/TypeScript. Ved siden av fordyper jeg meg i hvordan man får AI-modeller til å kjøre raskt og energieffektivt på edge-maskinvare.
+Jeg er systemutvikler med bakgrunn som dataingeniør. Til daglig bygger jeg fullstack-løsninger med C#/.NET, Blazor og Optimizely. Ved siden av fordyper jeg meg i hvordan man får AI-modeller til å kjøre raskt og energieffektivt på edge-maskinvare.
 
 ## Hva jeg jobber med nå
 
-- **Systemutvikling** – backend i C#/ASP.NET Core, frontend i React/Next.js, databaser og API-design
+- **Systemutvikling** – backend i C#/ASP.NET Core, frontend i Blazor, innholdsplattformer i Optimizely, databaser og API-design
 - **Effektive vision-language-modeller på NVIDIA Jetson AGX Orin** – kjører små VLM-er (SmolVLM) på edge, måler latens, minne og energi, og undersøker kvantisering og token-reduksjon for å finne den beste avveiningen mellom nøyaktighet og ytelse
 
 ## Teknologier
@@ -20,8 +20,8 @@ Jeg er systemutvikler med bakgrunn som dataingeniør. Til daglig bygger jeg full
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
