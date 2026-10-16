@@ -1,53 +1,44 @@
-# 👋 Hei, jeg er Hassan Yusuf
-Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniørstudent som liker å bygge enkle og brukervennlige løsninger. ⚽️ Fotballbakgrunnen min har lært meg å sette pris på samarbeid, disiplin og det å levere når det gjelder.
+<div align="right">
 
----
+🇳🇴 **Norsk** · [🇬🇧 English](README.en.md)
 
-## ✨ Om meg
-- **Dataingeniør(2022–2025)**  
-  - Har fokus på fullstack-utvikling og moderne verktøy
-- **Teamorientert**  
-  - Trives med å jobbe sammen med andre for å nå felles mål
-- **Alltid i utvikling**  
-  - Jeg følger med på nye teknologier og metoder for å bli en bedre utvikler
+</div>
 
----
+# Hassan Yusuf
 
-## 🚀 Nøkkelkompetanse
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+**Systemutvikler** · fullstack · .NET · React/TypeScript · effektiv ML på edge
 
-- **Webutvikling**: HTML, CSS, React, Next.js, Spring Boot, ASP.NET Core  
-- **Databaser**: SQL, NoSQL  
-- **Verktøy**: Git, GitHub, UML, Scrum/Kanban  
-- **Kjenner til**: CI/CD, Entity Framework, Agile metodikk
+Jeg er systemutvikler med bakgrunn som dataingeniør. Til daglig bygger jeg fullstack-løsninger med C#/.NET og React/TypeScript. Ved siden av fordyper jeg meg i hvordan man får AI-modeller til å kjøre raskt og energieffektivt på edge-maskinvare.
 
----
+## Hva jeg jobber med nå
 
-## 💡 Utvalgte prosjekter
+- **Systemutvikling** – backend i C#/ASP.NET Core, frontend i React/Next.js, databaser og API-design
+- **Effektive vision-language-modeller på NVIDIA Jetson AGX Orin** – kjører små VLM-er (SmolVLM) på edge, måler latens, minne og energi, og undersøker kvantisering og token-reduksjon for å finne den beste avveiningen mellom nøyaktighet og ytelse
 
-### ISA DeepData Platform
-- Fullstack-løsning for **International Seabed Authority (ISA)**, håndterer data om havbunnen  
-- **Teknologi**: ASP.NET Core (backend) og React/Next.js (frontend)  
-- Har kartvisning, dataanalyse og støtte for flere språk
-- [GitHub-repo](https://github.com/HassanYusuf1/Bachelor.git)
+## Teknologier
 
-### Nest & NestAPI
-- Sosialt nettverk utviklet med **ASP.NET MVC** og **Entity Framework**  
-- Separat **REST-API** laget i **ASP.NET Core**  
-- Støtter brukergenerert innhold og responsivt design  
-- [GitHub-repo](https://github.com/HassanYusuf1/Nest.git)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+## Utvalgte prosjekter
 
-## 📫 Kontakt meg
-- ✉️ [hassansahal123@outlook.com](mailto:hassansahal123@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hassan-yusuf-376043327)
+| Prosjekt | Beskrivelse | Teknologi |
+|---|---|---|
+| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Fullstack-plattform for International Seabed Authority med kartvisning, dataanalyse og flerspråklig støtte | ASP.NET Core, React, Next.js |
+| [Nest](https://github.com/HassanYusuf1/Nest) | Sosialt nettverk med eget REST-API og responsivt design | ASP.NET MVC, Entity Framework |
+| [DRTP](https://github.com/HassanYusuf1/P-litelig-Transportprotokoll-DRTP-) | Pålitelig transportprotokoll implementert over UDP | Python |
 
----
+## Kontakt
 
-> *"Kode fungerer på mystiske måter, men aldri tilfeldig."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-yusuf-376043327)
+[![E-post](https://img.shields.io/badge/E--post-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hassansahal123@outlook.com)
