@@ -6,14 +6,14 @@
 
 # Hassan Yusuf
 
-**Systemutvikler** · fullstack · .NET · Blazor · Optimizely · effektiv ML på edge
+**Systemutvikler** · C#/.NET · Blazor · Optimizely
 
-Jeg er systemutvikler med bakgrunn som dataingeniør. Til daglig bygger jeg fullstack-løsninger med C#/.NET, Blazor og Optimizely. Ved siden av fordyper jeg meg i hvordan man får AI-modeller til å kjøre raskt og energieffektivt på edge-maskinvare.
+Jeg jobber som systemutvikler og lager løsninger i C#/.NET, Blazor og Optimizely. Ved siden av ser jeg på hvordan AI-modeller kan kjøre raskere og bruke mindre strøm på små enheter.
 
 ## Hva jeg jobber med nå
 
-- **Systemutvikling** – backend i C#/ASP.NET Core, frontend i Blazor, innholdsplattformer i Optimizely, databaser og API-design
-- **Effektive vision-language-modeller på NVIDIA Jetson AGX Orin** – kjører små VLM-er (SmolVLM) på edge, måler latens, minne og energi, og undersøker kvantisering og token-reduksjon for å finne den beste avveiningen mellom nøyaktighet og ytelse
+- **Jobb:** systemutvikling med C#/.NET, Blazor og Optimizely
+- **Prosjekt:** kjører små AI-modeller som forstår bilder og tekst på NVIDIA Jetson AGX Orin, og tester hvordan de kan gå raskere
 
 ## Teknologier
 
@@ -34,9 +34,9 @@ Jeg er systemutvikler med bakgrunn som dataingeniør. Til daglig bygger jeg full
 
 | Prosjekt | Beskrivelse | Teknologi |
 |---|---|---|
-| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Fullstack-plattform for International Seabed Authority med kartvisning, dataanalyse og flerspråklig støtte | ASP.NET Core, React, Next.js |
-| [Nest](https://github.com/HassanYusuf1/Nest) | Sosialt nettverk med eget REST-API og responsivt design | ASP.NET MVC, Entity Framework |
-| [DRTP](https://github.com/HassanYusuf1/P-litelig-Transportprotokoll-DRTP-) | Pålitelig transportprotokoll implementert over UDP | Python |
+| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Nettløsning for International Seabed Authority med kart og dataanalyse | ASP.NET Core, React, Next.js |
+| [Nest](https://github.com/HassanYusuf1/Nest) | Sosialt nettverk med eget API | ASP.NET MVC, Entity Framework |
+| [DRTP](https://github.com/HassanYusuf1/P-litelig-Transportprotokoll-DRTP-) | Pålitelig filoverføring over UDP | Python |
 
 ## Kontakt
 

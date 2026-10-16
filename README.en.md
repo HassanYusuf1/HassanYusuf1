@@ -6,14 +6,14 @@
 
 # Hassan Yusuf
 
-**Software Developer** · full-stack · .NET · Blazor · Optimizely · efficient ML on the edge
+**Software Developer** · C#/.NET · Blazor · Optimizely
 
-I'm a software developer with a background in computer engineering. Day to day I build full-stack solutions with C#/.NET, Blazor and Optimizely. Alongside that, I'm digging into how to make AI models run fast and energy-efficiently on edge hardware.
+I work as a software developer, building solutions with C#/.NET, Blazor and Optimizely. On the side, I look at how AI models can run faster and use less power on small devices.
 
 ## What I'm working on
 
-- **Software development** – C#/ASP.NET Core backends, Blazor frontends, content platforms built on Optimizely, databases and API design
-- **Efficient vision-language models on NVIDIA Jetson AGX Orin** – running small VLMs (SmolVLM) at the edge, profiling latency, memory and energy, and exploring quantization and visual token reduction to find the best accuracy-vs-performance trade-off
+- **Work:** software development with C#/.NET, Blazor and Optimizely
+- **Project:** running small AI models that understand images and text on an NVIDIA Jetson AGX Orin, and testing how to make them faster
 
 ## Tech
 
@@ -34,9 +34,9 @@ I'm a software developer with a background in computer engineering. Day to day I
 
 | Project | Description | Stack |
 |---|---|---|
-| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Full-stack platform for the International Seabed Authority with map views, data analysis and multi-language support | ASP.NET Core, React, Next.js |
-| [Nest](https://github.com/HassanYusuf1/Nest) | Social network with a separate REST API and responsive design | ASP.NET MVC, Entity Framework |
-| [DRTP](https://github.com/HassanYusuf1/P-litelig-Transportprotokoll-DRTP-) | Reliable transport protocol implemented on top of UDP | Python |
+| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Web app for the International Seabed Authority with maps and data analysis | ASP.NET Core, React, Next.js |
+| [Nest](https://github.com/HassanYusuf1/Nest) | Social network with its own API | ASP.NET MVC, Entity Framework |
+| [DRTP](https://github.com/HassanYusuf1/P-litelig-Transportprotokoll-DRTP-) | Reliable file transfer over UDP | Python |
 
 ## Contact
 
