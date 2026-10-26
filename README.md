@@ -12,7 +12,6 @@ Jeg jobber som systemutvikler hos Folkehelseinstituttet (FHI) og lager løsninge
 
 ## Hva jeg jobber med nå
 
-- **Jobb:** systemutvikling med C#/.NET, Blazor og Optimizely
 - **Prosjekt:** kjører små AI-modeller som forstår bilder og tekst på NVIDIA Jetson AGX Orin, og tester hvordan de kan gå raskere
 
 ## Bakgrunn

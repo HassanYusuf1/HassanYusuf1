@@ -12,7 +12,6 @@ I work as a software developer at the Norwegian Institute of Public Health (FHI)
 
 ## What I'm working on
 
-- **Work:** software development with C#/.NET, Blazor and Optimizely
 - **Project:** running small AI models that understand images and text on an NVIDIA Jetson AGX Orin, and testing how to make them faster
 
 ## Background
