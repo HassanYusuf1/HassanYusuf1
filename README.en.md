@@ -6,17 +6,7 @@
 
 # Hassan Yusuf
 
-**Software Developer** · C#/.NET · Blazor · Optimizely
-
-I'm a software developer, building solutions with C#/.NET, Blazor and Optimizely. On the side, I look at how AI models can run faster and use less power on small devices.
-
-## What I'm working on
-
-- **Project:** running small AI models that understand images and text on an NVIDIA Jetson AGX Orin, and testing how to make them faster
-
-## Background
-
-- Bachelor's in computer engineering, OsloMet (2022–2025)
+Software developer. I work with C#/.NET, Blazor and Optimizely. I also test small AI models on the NVIDIA Jetson AGX Orin.
 
 ## Tech
 

@@ -6,17 +6,7 @@
 
 # Hassan Yusuf
 
-**Systemutvikler** · C#/.NET · Blazor · Optimizely
-
-Jeg er systemutvikler og lager løsninger i C#/.NET, Blazor og Optimizely. Ved siden av ser jeg på hvordan AI-modeller kan kjøre raskere og bruke mindre strøm på små enheter.
-
-## Hva jeg jobber med nå
-
-- **Prosjekt:** kjører små AI-modeller som forstår bilder og tekst på NVIDIA Jetson AGX Orin, og tester hvordan de kan gå raskere
-
-## Bakgrunn
-
-- Bachelor i dataingeniør, OsloMet (2022–2025)
+Systemutvikler. Jobber med C#/.NET, Blazor og Optimizely. Tester også små AI-modeller på NVIDIA Jetson AGX Orin.
 
 ## Teknologier
 
