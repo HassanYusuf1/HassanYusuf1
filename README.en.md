@@ -6,14 +6,20 @@
 
 # Hassan Yusuf
 
-**Software Developer** · C#/.NET · Blazor · Optimizely
+**Software Developer at FHI** · C#/.NET · Blazor · Optimizely
 
-I work as a software developer, building solutions with C#/.NET, Blazor and Optimizely. On the side, I look at how AI models can run faster and use less power on small devices.
+I work as a software developer at the Norwegian Institute of Public Health (FHI), building solutions with C#/.NET, Blazor and Optimizely. On the side, I look at how AI models can run faster and use less power on small devices.
 
 ## What I'm working on
 
 - **Work:** software development with C#/.NET, Blazor and Optimizely
 - **Project:** running small AI models that understand images and text on an NVIDIA Jetson AGX Orin, and testing how to make them faster
+
+## Background
+
+- Bachelor's in computer engineering, OsloMet (2022–2025)
+- Teaching assistant in programming, OsloMet (2024)
+- Played football for Skeid and Grorud, including in the OBOS-ligaen (Norway's second tier), until January 2026
 
 ## Tech
 
@@ -34,9 +40,10 @@ I work as a software developer, building solutions with C#/.NET, Blazor and Opti
 
 | Project | Description | Stack |
 |---|---|---|
-| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Web app for the International Seabed Authority with maps and data analysis | ASP.NET Core, React, Next.js |
+| [ISA DeepData Platform](https://github.com/HassanYusuf1/Bachelor) | Bachelor project with Simula for the International Seabed Authority. I led the group and was responsible for the backend and database | ASP.NET Core, React, Next.js |
 | [Nest](https://github.com/HassanYusuf1/Nest) | Social network with its own API | ASP.NET MVC, Entity Framework |
 | [DRTP](https://github.com/HassanYusuf1/P-litelig-Transportprotokoll-DRTP-) | Reliable file transfer over UDP | Python |
+| [Birthday list](https://github.com/HassanYusuf1/Bursdag) | Android app that sends birthday greetings by SMS automatically | Java, Android, Room |
 
 ## Contact
 
