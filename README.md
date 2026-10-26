@@ -6,9 +6,9 @@
 
 # Hassan Yusuf
 
-**Systemutvikler hos FHI** · C#/.NET · Blazor · Optimizely
+**Systemutvikler** · C#/.NET · Blazor · Optimizely
 
-Jeg jobber som systemutvikler hos Folkehelseinstituttet (FHI) og lager løsninger i C#/.NET, Blazor og Optimizely. Ved siden av ser jeg på hvordan AI-modeller kan kjøre raskere og bruke mindre strøm på små enheter.
+Jeg er systemutvikler og lager løsninger i C#/.NET, Blazor og Optimizely. Ved siden av ser jeg på hvordan AI-modeller kan kjøre raskere og bruke mindre strøm på små enheter.
 
 ## Hva jeg jobber med nå
 
@@ -17,8 +17,6 @@ Jeg jobber som systemutvikler hos Folkehelseinstituttet (FHI) og lager løsninge
 ## Bakgrunn
 
 - Bachelor i dataingeniør, OsloMet (2022–2025)
-- Studentassistent i programmering, OsloMet (2024)
-- Spilte fotball for Skeid og Grorud, blant annet i OBOS-ligaen, fram til januar 2026
 
 ## Teknologier
 

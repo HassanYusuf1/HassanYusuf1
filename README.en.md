@@ -6,9 +6,9 @@
 
 # Hassan Yusuf
 
-**Software Developer at FHI** · C#/.NET · Blazor · Optimizely
+**Software Developer** · C#/.NET · Blazor · Optimizely
 
-I work as a software developer at the Norwegian Institute of Public Health (FHI), building solutions with C#/.NET, Blazor and Optimizely. On the side, I look at how AI models can run faster and use less power on small devices.
+I'm a software developer, building solutions with C#/.NET, Blazor and Optimizely. On the side, I look at how AI models can run faster and use less power on small devices.
 
 ## What I'm working on
 
@@ -17,8 +17,6 @@ I work as a software developer at the Norwegian Institute of Public Health (FHI)
 ## Background
 
 - Bachelor's in computer engineering, OsloMet (2022–2025)
-- Teaching assistant in programming, OsloMet (2024)
-- Played football for Skeid and Grorud, including in the OBOS-ligaen (Norway's second tier), until January 2026
 
 ## Tech
 
